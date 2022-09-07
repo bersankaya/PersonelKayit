@@ -1,0 +1,26 @@
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe.config
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.pdb
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.AssemblyReference.cache
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Properties.Resources.resources
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.GenerateResource.cache
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.exe
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.pdb
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmIstatistik.resources
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmAnaForm.resources
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGrafikler.resources
+C:\Users\BERŞAN KAYA\Desktop\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGiris.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe.config
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.pdb
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.AssemblyReference.cache
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmAnaForm.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGiris.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGrafikler.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmIstatistik.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Properties.Resources.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.GenerateResource.cache
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.exe
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.pdb
